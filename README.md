@@ -1,4 +1,4 @@
-# Text-To-Speech-On-Raspberry-Pi
+# Text-To-Speech On Raspberry Pi
 
 Text-to-Speech translation on Raspberry Pi
 
@@ -20,5 +20,5 @@ PYGAME_HIDE_SUPPORT_PROMPT=hide
 You will need to install the following packages to run this code: 
 
 ```console
-$ pip install pygame gtts
+$ pip install pygame gtts piper-tts
 ```
