@@ -22,3 +22,4 @@ You will need to install the following packages to run this code:
 ```console
 $ pip install pygame gtts piper-tts
 ```
+You may need to create a Python virtual environment first. 
