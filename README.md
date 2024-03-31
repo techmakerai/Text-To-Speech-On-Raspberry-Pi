@@ -10,7 +10,7 @@ https://youtu.be/EiInDFhPRvw
 * Raspberry Pi
 * Speaker
 * Amplifier
-* Microphone (https://www.microcenter.com/product/613575/adafruit-industries-mini-usb-microphone-black)
+* Microphone  
 
 ## Set System Environment Variables 
  
