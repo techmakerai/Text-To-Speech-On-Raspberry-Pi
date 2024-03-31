@@ -17,7 +17,7 @@ https://youtu.be/EiInDFhPRvw
 PYGAME_HIDE_SUPPORT_PROMPT=hide
 
 ## Install Python and Packages 
-You will need to install the following packages to run this code: 
+You will need to install the following packages to run the Python scripts in this project: 
 
 ```console
 $ pip install pygame gtts piper-tts
