@@ -23,7 +23,7 @@ You will need to install the following packages to run the Python scripts in thi
 $ pip install pygame gtts piper-tts
 ```
 
-For the stream version, you also need to install NumPy    
+For the stream version (example_stream.py), you also need to install NumPy    
 
 ```console
 $ pip install numpy
